@@ -1,4 +1,4 @@
-# Jira-Task
+# Jira-API Automation
 This repo is for Jira assignment
 # About the files in this repository
 1. Jira.jmx contains the script file for JMeter.
