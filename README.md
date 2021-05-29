@@ -3,8 +3,7 @@ This repo is for Jira assignment
 # About the files in this repository
 1. Jira.jmx contains the script file for JMeter.
 
-2. assertion.txt file contains the assertion results that was ran previosuly.
-3. image.png and 3MB.jpg are the two image files that is used in the API automation in JMeter.
+2. image.png and 3MB.jpg are the two image files that is used in the API automation in JMeter.
 
 # About cloning the repository
 
@@ -18,7 +17,7 @@ Download this repository as zip and unzip the file in JMeter Home directory e.g.
   
      b. Password: Password of Jira server.
   
-    c. Lead: Provide a valid Lead username to whome the Project will be assigned.
+    c. Lead: Provide a valid Lead username to whom the Project will be assigned.
   
     d. Server: Provide your Server IP of Name, e.g. 127.0.0.1, Localhost etc.
   
