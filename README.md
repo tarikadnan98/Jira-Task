@@ -1,7 +1,12 @@
 # Jira-API Automation
 This repo is for Jira assignment
+
+# Tool Used
+
+Apache JMeter Version 5.4.1
+
 # About the files in this repository
-1. Jira.jmx contains the script file for JMeter.
+1. Jira.jmx is the script file for JMeter.
 
 2. image.png and 3MB.jpg are the two image files that is used in the API automation in JMeter.
 
